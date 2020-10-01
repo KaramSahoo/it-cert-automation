@@ -42,6 +42,11 @@ print(4+5)
 # >>> print(4+5)
 # 9
 
+print(3-6)
+
+# >>> print(3-6)
+# -3
+
 print(9*7)
 
 # >>> print(9*7)
